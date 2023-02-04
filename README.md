@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @nihalkatti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...React and Next JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Time Series with Arima Model
+Purpose: The objective of this notebook is to have a simplified template to understand Time series forecasting with ARIMA model in python, acting more as a tutorial.
 
-<!---
-nihalkatti/nihalkatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Objective: Build a model to forecast the demand(passenger traffic) in Airplanes. The data is classified in date/time and the passengers travelling per month
